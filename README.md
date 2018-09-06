@@ -1,3 +1,3 @@
 # ITF-Lab 2018
 ## Author
-ตุลยดา มินนะนัน 61070062
+*TULYADA MINNANAN 61070062
